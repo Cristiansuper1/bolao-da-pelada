@@ -48,12 +48,12 @@ Aplicativo Android nativo desenvolvido em Kotlin para gerenciamento de bolões e
 |---|---|
 | **Kotlin** | Linguagem principal |
 | **Android SDK 34** | Target SDK |
-| **Room + KSP** | Banco de dados local com processamento de anotações |
+| **Room e KSP** | Banco de dados local com processamento de anotações |
 | **MPAndroidChart** | Gráficos (pizza, barras, linhas) |
-| **ViewPager2 + TabLayout** | Navegação por abas |
+| **ViewPager2 e TabLayout** | Navegação por abas |
 | **Material Components** | Design system e componentes UI |
 | **ViewBinding** | Acesso seguro às views |
-| **Coroutines + Flow** | Programação assíncrona e reativa |
+| **Coroutines e Flow** | Programação assíncrona e reativa |
 | **PdfDocument API** | Geração nativa de PDF |
 | **FileProvider** | Compartilhamento seguro de arquivos |
 
