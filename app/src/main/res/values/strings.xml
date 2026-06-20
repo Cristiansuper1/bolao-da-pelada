@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bolão da Pelada</string>
+    <string name="footer_text"><i>Fatec Campinas - Cristian Moreira e Guilherme Bellini - 2026</i></string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_profile">Meu Perfil</string>
+    <string name="menu_accessibility">Acessibilidade (Planejado para versões futuras)</string>
+    <string name="menu_logout">Sair</string>
+    <string name="action_save">Salvar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_confirm">Confirmar</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_edit">Editar</string>
+</resources>
