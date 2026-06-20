@@ -75,15 +75,15 @@ Aplicativo Android nativo desenvolvido em Kotlin para gerenciamento de bolões e
 
 ### Passos
 1. Clone o repositório:
-   ```bash
+```bash
    git clone https://github.com/Cristiansuper1/bolao-da-pelada
-  ```
+```
 2. Abra o projeto no Android Studio
 3. Aguarde a sincronização do Gradle
 4. Execute em um dispositivo ou emulador
 
 ### Estrutura do Projeto
-   ```bash
+```
 app/src/main/java/com/example/bolaodapelada/
 ├── data/
 │   ├── dao/
@@ -91,7 +91,7 @@ app/src/main/java/com/example/bolaodapelada/
 │   └── repository/
 ├── ui/
 └── util/
-  ```
+```
 
 ### Licença
 Este projeto está licenciado sob a MIT License
