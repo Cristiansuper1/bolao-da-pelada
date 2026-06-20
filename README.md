@@ -96,5 +96,5 @@ app/src/main/java/com/example/bolaodapelada/
 ### Licença
 Este projeto está licenciado sob a MIT License
 
-Fatec Campinas — Desenvolvimento de Aplicativos Mobile
+Fatec Campinas - Tópicos Especiais em Informática
 2026
